@@ -1,10 +1,12 @@
-### Hi there, I'm Rufat - aka [rufatZZ] 👋
+### Hi there, welcome to my Github profile
+### I'm Rufat - aka rufatZZ 👋
 
 ## I'm a Developer, Cyclist and Marshal!
-- 🔭 I’m currently working at KapitalBank OJSC!
+- 🔭 I’m currently working at KapitalBank OJSC-  
 - 🌱 I’m currently learning quirky part of JavaScript (still) 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects (Maybe my own side project)
-- ⚡ Fun fact: I love to hike and bikes
+- 🥅 2020 Goals: Contribute more to Open Source projects (maybe my own side projects)
+- ⚡ Fun fact: I love to hike :mount_fuji: and cycle :bike:
+- :dog: I'm a dog person
 - 😄 Pronouns: He/Him
 
 ### Connect with me:

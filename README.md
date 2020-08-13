@@ -42,7 +42,7 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rufatZZ&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="rufatZZ's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rufatZZ&show_icons=true&hide_border=true&count_private=true" />
 
 [website]: https://rufatzz.github.io
 [twitter]: https://twitter.com/rufat_zeynalli

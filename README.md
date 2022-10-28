@@ -1,5 +1,5 @@
 ### Hi there, welcome to my Github profile
-### I'm Rufat - aka rufatZZ 👋
+### I'm Rufat 👋
 
 ## I'm a Developer, Cyclist and Marshal!
 - 🔭 I’m currently working at Vivy GmbH 

@@ -2,7 +2,7 @@
 ### I'm Rufat - aka rufatZZ 👋
 
 ## I'm a Developer, Cyclist and Marshal!
-- 🔭 I’m currently working at KapitalBank OJSC-  
+- 🔭 I’m currently working at Vivy GmbH 
 - 🌱 I’m currently learning quirky part of JavaScript (still) 🤣
 - 🥅 2020 Goals: Contribute more to Open Source projects (maybe my own side projects)
 - ⚡ Fun fact: I love to hike :mount_fuji: and cycle :bike:
